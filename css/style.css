@@ -761,7 +761,7 @@ section {
     color: crimson;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 100%) {
     html {
         font-size: 55%;
     }
